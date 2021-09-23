@@ -5,7 +5,8 @@ use Git and GitHUB TOGETHER
 
 ## Introduction
 
-Sample website with plenty of files for demos
+This is a example to show differents parts fo the git repository and
+commands using git project
 
 ##Purpose
 
