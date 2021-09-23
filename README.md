@@ -10,6 +10,7 @@ commands using git project
 
 ##Purpose
 
+As stated above the main purpose is to provide simple example for git training demos
 ##How To Contribute
 
 ##Deployment
