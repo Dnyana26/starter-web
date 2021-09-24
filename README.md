@@ -9,11 +9,19 @@ commands using git project
 Here adding another paa4ra
 
 ##Purpose
-
+ for git training demos
+this tells us ohw to contribute
 
 ##How To Contribute
 
 
+this tells about the deployment of an website
+
 ##Deployment
 
+
+this tells about the deployment of an website
 ##D
+
+
+this tells about the deployment of an website
