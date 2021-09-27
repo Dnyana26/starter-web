@@ -6,7 +6,7 @@ use Git and GitHUB TOGETHER. Adding for rebasig purpose in master branch
 ## Introduction
 This is a example to show differents parts fo the git repository and
 commands using git project
-Upddddating here
+Upddddating here for stashing in different branches
 
 ##Purpose
  for git training demos
