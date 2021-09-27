@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing how to 
-use Git and GitHUB TOGETHER. Here adding for rebasing purpose
+use Git and GitHUB TOGETHER. Adding for rebasig purpose in master branch
 
 ## Introduction
 This is a example to show differents parts fo the git repository and
